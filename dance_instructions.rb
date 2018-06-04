@@ -6,7 +6,11 @@ def Gangnam_Style
   puts "Lift right foot"
   puts "Return right foot to the ground"
   puts "Finishing with a small skip-step backward"
-  def skip-step
+  
+  def skip-step_left
     puts "Lower left foot to the ground"
     puts "Bounce left foot back up slightly, kicking it a few inches back"
-    puts ""
+    puts "Left, Right, Left and Left"
+    
+    def skip-step_right
+      puts ""
