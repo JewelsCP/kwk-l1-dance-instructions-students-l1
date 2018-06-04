@@ -1,7 +1,7 @@
 
 # Code your methods below
 
-def stance
+def starting_with
   puts "Plant legs far apart, bend knees slightly and keep posture loose"
  end
 
@@ -35,7 +35,7 @@ def lasso
   puts "Raise right forearm so that it points straight up, and whip it in small circles to the beat of the song, as if you were a cowboy holding a rope lasso. This movement is repeated eight times as well."
 end
 
-stance
+staring_with
 base_footwork
 skip_step_right
 skip_step_left
