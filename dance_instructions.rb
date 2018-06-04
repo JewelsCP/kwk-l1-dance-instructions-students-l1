@@ -7,4 +7,5 @@ def Gangnam_Style
   puts "Return right foot to the ground"
   puts "Finishing with a small skip-step backward"
   def skip-step
-    puts ""
+    puts "Lower left foot to the ground"
+    puts
