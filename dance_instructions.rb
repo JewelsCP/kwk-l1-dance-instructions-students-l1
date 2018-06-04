@@ -14,4 +14,5 @@ def Gangnam_Style
     
     def skip-step_right
       puts "Left, Right, Left and Left"
+      puts "Bounce right foot back up slightly, kicking it a few inches back"
       puts ""
