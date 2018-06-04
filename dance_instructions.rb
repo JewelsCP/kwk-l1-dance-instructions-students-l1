@@ -13,4 +13,5 @@ def Gangnam_Style
     puts "Left, Right, Left and Left"
     
     def skip-step_right
+      puts "Left, Right, Left and Left"
       puts ""
