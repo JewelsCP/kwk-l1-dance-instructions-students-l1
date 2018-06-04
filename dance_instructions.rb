@@ -8,4 +8,5 @@ def Gangnam_Style
   puts "Finishing with a small skip-step backward"
   def skip-step
     puts "Lower left foot to the ground"
-    puts
+    puts "Bounce left foot back up slightly, kicking it a few inches back"
+    puts ""
