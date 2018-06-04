@@ -1,10 +1,10 @@
-local_greeting =
-your_name = 
-my_name =
-time_of_day = 
+local_greeting = "Hey, dude"
+your_name = "Randy"
+my_name = "Ame"
+time_of_day = "summer time"
 
 def greeting
-  puts "#{local-greetings},I'm #{your_name}, I'm #{my_name}. How's your afternoon?"
+  puts "#{local-greetings},I'm #{your_name}, I'm #{my_name}. How's your #{time_of_day}?"
 end
 
 greeting
