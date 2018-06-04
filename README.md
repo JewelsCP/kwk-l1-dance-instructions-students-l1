@@ -1,4 +1,4 @@
-# Dance Instructions Lab
+3# Dance Instructions Lab
 
 ## Objectives
 
