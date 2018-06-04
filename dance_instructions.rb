@@ -11,13 +11,13 @@ def base_footwork
   puts "Finishing with a small skip-step backward"
  end 
   
-def skip-step_left
+def skip_step_left
   puts "Lower left foot to the ground"
   puts "Bounce left foot back up slightly, kicking it a few inches back"
   puts "Left, Right, Left and Left"
 end 
   
-def skip-step_right
+def skip_step_right
   puts "Left, Right, Left and Left"
   puts "Bounce right foot back up slightly, kicking it a few inches back"
   puts "Right, Left, Right and Right"
@@ -37,7 +37,7 @@ end
 
 stance
 base_footwork
-skip-step_right
-skip-step_left
+skip_step_right
+skip_step_left
 bob_the_reins
 lasso
